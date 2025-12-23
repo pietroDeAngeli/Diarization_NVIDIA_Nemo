@@ -88,3 +88,7 @@ Each final JSON contains:
   ...
 }
 ```
+
+## Other
+For more information you can check the performances details [here](Diarizer_documentation.pdf).
+
